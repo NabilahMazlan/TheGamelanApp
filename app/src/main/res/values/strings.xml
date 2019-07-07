@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Gamelan Naga Kencana</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="origin"><u>Country of Origin</u></string>
+    <string name="types"><u>Types of Gamelan</u></string>
+    <string name="scales"><u>Types of Scales</u></string>
+    <string name="instruments"><u>Types of Instruments</u></string>
+    <string name="gnk"><u>About Gamelan Naga Kencana</u></string>
+    <string name="otherGrps"><u>Other Gamelan Groups in Singapore</u></string>
+    <string name="gamelanBali">Balinese Gamelan Set</string>
+    <string name="javaGamelan">Javanese Gamelan Set</string>
+    <string name="sundaGamelan">Sundanese Gamelan Set</string>
+
+    <string name="bonangBarung">Bonang Barung</string>
+    <string name="bonangPenerus">Bonang Penerus</string>
+    <string name="ciblon">Ciblon</string>
+    <string name="demung">Demung</string>
+    <string name="gambang">Gambang</string>
+    <string name="gendangAI">Gendang Anak and Ibu</string>
+    <string name="gender">Gender</string>
+    <string name="gongAgeng">Gong Ageng</string>
+    <string name="kempul">Gong Kempul</string>
+    <string name="suwuk">Gong Suwuk</string>
+    <string name="kenong">Kenong</string>
+    <string name="kericik">Kericik</string>
+    <string name="kk">Kethuk Kempyang</string>
+    <string name="peking">Peking</string>
+    <string name="saron">Saron</string>
+    <string name="slenthem">Slenthem</string>
+    <string name="sither">Sither</string>
+    <string name="viewSongs">View Songs</string>
+    <string name="pelog">Pelog</string>
+    <string name="slendro">Slendro</string>
+    <string name="welcome">Welcome to our new App!</string>
+    <string name="announcement">Announcements</string>
+
+    <string name="gamelan_asmaradana">Gamelan Asmaradana</string>
+    <string name="bronzage">Bronzage Gamelan</string>
+    <string name="djoko_mangkreng">Djoko Mangkreng</string>
+    <string name="gamelan_singamurti">Gamelan Singamurti</string>
+    <string name="title_activity_announcement_info">AnnouncementInfoActivity</string>
+
+</resources>

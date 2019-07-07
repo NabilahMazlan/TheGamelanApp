@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.3"
+            android:adjustViewBounds="true"
+            android:background="@drawable/home_shot"
+            android:gravity="center"
+            android:padding="5dp"
+            android:scaleType="fitXY"
+            android:text="@string/welcome"
+            android:textColor="@color/gold"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/textViewAnnouncements"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.05"
+            android:gravity="center"
+            android:text="Announcements" />
+
+        <ListView
+            android:id="@+id/listViewAnnouncement"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.65" />
+
+    </LinearLayout>
+
+</FrameLayout>

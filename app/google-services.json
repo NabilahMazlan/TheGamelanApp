@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "870164161340",
+    "firebase_url": "https://gamelan-6f516.firebaseio.com",
+    "project_id": "gamelan-6f516",
+    "storage_bucket": "gamelan-6f516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870164161340:android:5450a5ca616f8588",
+        "android_client_info": {
+          "package_name": "com.example.gamelannagakencana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870164161340-365tud2fou0tat2c1d89gqj1dbfuq3rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamelannagakencana",
+            "certificate_hash": "a1bc177269ce0e852a3a00caa839eff9ce1de0af"
+          }
+        },
+        {
+          "client_id": "870164161340-m8m5qgmq5rdgfmg38s2l53a2kj7lbbcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzdJg4Uvz2k7lC64LfDGCBHsuKcE8SHEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870164161340-m8m5qgmq5rdgfmg38s2l53a2kj7lbbcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
